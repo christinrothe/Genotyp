@@ -1,0 +1,54 @@
+Algorithmus soll ohne Unterstützung umgesetzt werden:
+
+Werkzeug(-eigenschaften)
+A4 Bogen weiss		
+Fineliner schwarz 1,0 	(FS1)
+Fineliner rot 1,0 		(FR1)
+(Lineal)
+
+
+
+
+ALGORITHMUS:
+
+-Bogen im Hochformat
+
+-Gehe von der geschätzten Mitte des Blattes etwa waagerecht 2cm nach links und 0,5cm senkrecht nach unten.
+
+-Dieser imaginäre Punkt markiert die Mitte eines Kreises, der einen Durchmesser von 1cm hat und mit dem FS1 gezeichnet wird (nur outlines).
+ 
+-Der Druckmesser wird mit FS1 waagerecht eingezeichnet.
+
+-Von dem Mittelpunkt des Kreises geht eine Linie mit den Eigenschaften FS1 5cm senkrecht nach oben;
+	!!! wobei der erste Teil der Linie von dem Kreis bedeckt und somit nicht sichtbar ist !!!
+
+-Von dem Mittelpunkt des Kreises geht eine Linie mit den Eigenschaften FS1 3cm waagerecht nach rechts;
+   !!! wobei der erste Teil der Linie von dem Kreis/Durchmesserlinie bedeckt und somit nicht sichtbar ist !!!
+
+-Verbind nun die Beiden Endpunkte der Linien zu einem (rechtwinkligen) Dreieck mit FS1;
+
+-Von der Hypotenuse (längsten Seite des Dreiecks) geht eine imaginäre Linie zu ￼ (rechter Winkel);
+
+-Von dem Mittelpunkt dieser imaginären Linie geht eine Linie FS1 senkrecht nach unten bis sie an den Bildrand gelangt. (Diese Linie trägt den Namen ‚∞‘);
+
+-Markiere drei Punkte auf ‚∞' die einen Abstand von 0,5cm zu einander haben. Der unterste Punkt liegt 8cm von dem Ausgangspunkt der Linie ‚∞‘ entfernt;
+
+
+!!! Werzeugwechsel !!!
+-Der unterste Punkt wird von einer horizontalen Linie FR1 geschnitten, die am linken Bildrand beginnt. Nach dem Schneiden der Vertikalen ‚∞' setzt sich die Linie so weit fort, bis sie auf gleicher Höhe mit β (rechte Spitze des Dreiecks) endet;
+
+-In einem 45° Winkel zieht sich nun eine weitere Gerade FR1 nach unten bis an den Bildrand, sodass ein (ungefähr) gleichschenklig-rechtwinkliges Dreieck mit ‚∞‘ entsteht;
+
+
+!!! Werzeugwechsel !!!
+-Wiederhole diesen Vorgang mit den beiden oberhalb liegenden Punkten aber mit einer Linie mit den Eigenschaften FS1;
+
+
+!!! Werzeugwechsel !!!
+-Zeichne nun auf der rechten Seite des Blattes auf Höhe des Dreiecks eine gestrichelte, zum Dreieck hin offene Halbkreislinie mit FR1;
+						!!! Die Halbkreislinie muss kleiner sein als das Dreieck !!!
+
+
+-Zeichne links von dem Dreieck eine waagerechte, ebenfalls gestrichelte Linie von 2cm auf Höhe des einen Endpunktes der offenen Halbkreislinie. Die Linie FR1 darf das Dreieck nicht berühren;
+
+-Wiederhole diesen Vorgang mit dem zweiten Endpunkt der offenen Halbkreislinie. Beide gestrichelte Linien haben den gleichen Anfangs und Endpunkt;
