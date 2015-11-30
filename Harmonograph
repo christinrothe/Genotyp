@@ -1,3 +1,5 @@
+**An Processing Sketch**
+
 import processing.pdf.*; //...
 
 void setup(){
@@ -53,7 +55,7 @@ void draw(){
 
 
 NEW TAB
-Harmonograph:
+*Harmonograph:*
 
 float freqX = 122;
 float freqY = 0.7;
@@ -77,7 +79,7 @@ float v = 0;
 }
 
 
-Int:
+*Int:*
 
 int x = 430;
 int x2 = x + 150;
