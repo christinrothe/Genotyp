@@ -1,0 +1,23 @@
+
+
+float freqX = 122;
+float freqY = 0.7;
+float freqS = .5;
+float damping = .9999f;
+float amplitude = 100;
+
+
+
+float t = 0;
+float r = 0;
+float v = 0; 
+
+
+  void simulateHarmonograph() {
+  t += 1f / frameRate;
+  amplitude = amplitude * damping;
+  r = amplitude * sin(freqX * t) + amplitude * sin(freqS * t);
+  v = amplitude * sin(freqY * t);
+  println(r, v);
+}
+
