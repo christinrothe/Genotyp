@@ -8,7 +8,7 @@ Write a step-by-step instruction how to paint a specific pattern. Let people com
 ### My pattern
 I created a complex and static pattern. My goal was, to recreate these shapes identical in size, implementation and appearance with the algorithm.
 
-
+![ ](https://cloud.githubusercontent.com/assets/9571378/11806806/da06a246-a315-11e5-8350-6df97d7cf7cb.png)
 
 ### Outcome
 Most people had trouble in recreating the pattern I gave. The reason for this is to find on both sides: the drawers and mine.
@@ -27,6 +27,6 @@ drawer:
 - propper reading
 
 ###images
-![1](https://cloud.githubusercontent.com/assets/9571378/11806585/700c1e58-a314-11e5-976a-ec4f0f05efbc.jpg)
+![ ](https://cloud.githubusercontent.com/assets/9571378/11806585/700c1e58-a314-11e5-976a-ec4f0f05efbc.jpg)
 
 ###
