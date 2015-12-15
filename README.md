@@ -45,3 +45,10 @@ I used this snipped of code and the speed of the computer, to bring the simple b
 ![ ](https://cloud.githubusercontent.com/assets/9571378/11807630/39035686-a31b-11e5-9745-4d86c6d7c448.jpg)
 ![grid collection](https://cloud.githubusercontent.com/assets/9571378/11807669/81487f2a-a31b-11e5-95ed-cef36117e0c1.jpg)
 
+###Application
+I used the grid as a painting for pottery. The grid is also influencing the shape of the bowl and gives a nice texture.
+This technique can be used to create personlaized pottery for specific dishes eg. japanese ramen.
+
+![ ](https://cloud.githubusercontent.com/assets/9571378/11807783/4ff6232c-a31c-11e5-8b80-5aaed63d0648.jpg)
+![ ](https://cloud.githubusercontent.com/assets/9571378/11807798/78855722-a31c-11e5-91a8-e44889521d82.png)
+
