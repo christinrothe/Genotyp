@@ -1,0 +1,52 @@
+import processing.pdf.*; //...
+
+void setup(){
+  size(1200, 1200);
+  frameRate(1);
+  smooth(90);
+}
+
+void draw(){
+  beginRecord(PDF, "frame" + hour() + minute() + second() + millis() + ".pdf"); //save pdf
+
+  background(255);
+  simulateHarmonograph(); 
+
+        fill(90, 20, 146);
+        text("[translate R]", 20, 140);  //shows r_value
+        text(r, 20, 155);
+        text("[translate V]", 20, 170); //shows v_value
+        text(v, 20, 185);
+        
+        translate(0, -600); 
+        for (int i = 0; i < 1; i++) {
+        float p = random(0, 1);
+    //println(p);
+        float u = random(590, 610);
+    //println(u);
+        float l = random(0, +360);
+    //println(p);
+
+    for (int x=0; x < 60; x++) {
+      for (int y=0; y < 60; y++) {
+          
+          pushMatrix();
+          translate(x * r, y * v); //r & v from harmonograph
+          strokeWeight(2);
+          noFill();
+          stroke(0);
+          beginShape();
+          vertex(a, b);
+          vertex(a1, b1);
+          vertex(a2, b2);
+          endShape();
+          popMatrix();
+          
+          int s = second();
+          println(s);
+
+      }
+    }
+  }
+    endRecord(); //...
+}
