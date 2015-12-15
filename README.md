@@ -29,4 +29,7 @@ drawer:
 ###images
 ![ ](https://cloud.githubusercontent.com/assets/9571378/11806585/700c1e58-a314-11e5-976a-ec4f0f05efbc.jpg)
 
-###
+###development
+Because the pattern is so fragmented and static, I decided to reduce it to the most interesting and changeable shape. The bent line is an easy shape but allows a lot of creative space:
+
+![ ](file:///Users/christinrothe/Downloads/frame16323726166.pdf)
