@@ -1,0 +1,8 @@
+int x = 430;
+int x2 = x + 150;
+int a = 0 ;
+int b = 750;
+int a1 = x2;
+int b1 = b;
+int a2 = a1/2;
+int b2 = 900;
