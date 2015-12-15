@@ -43,5 +43,5 @@ I used this snipped of code and the speed of the computer, to bring the simple b
 ![ ](https://cloud.githubusercontent.com/assets/9571378/11807480/514f05ec-a31a-11e5-811d-99dbb34f9446.jpg)
 ![ ](https://cloud.githubusercontent.com/assets/9571378/11807610/1a483cde-a31b-11e5-8c4f-ee2c6a5a8f52.jpg)
 ![ ](https://cloud.githubusercontent.com/assets/9571378/11807630/39035686-a31b-11e5-9745-4d86c6d7c448.jpg)
-![ ](https://cloud.githubusercontent.com/assets/9571378/11807669/81487f2a-a31b-11e5-95ed-cef36117e0c1.jpg)
+![grid collection](https://cloud.githubusercontent.com/assets/9571378/11807669/81487f2a-a31b-11e5-95ed-cef36117e0c1.jpg)
 
