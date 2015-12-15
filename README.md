@@ -24,4 +24,4 @@ different understanding
 propper reading
 
 ##images
-![img1](/images/image1.JPG)
+![img1](genotyp/images/image1.JPG)
