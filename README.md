@@ -24,4 +24,4 @@ different understanding
 propper reading
 
 ##images
-![1](https://cloud.githubusercontent.com/assets/9571378/11805243/91b087ba-a30a-11e5-95be-7a0384c45213.JPG)
+![1](https://cloud.githubusercontent.com/assets/9571378/11805243/91b087ba-a30a-11e5-95be-7a0384c45213.JPG = 50x50)
